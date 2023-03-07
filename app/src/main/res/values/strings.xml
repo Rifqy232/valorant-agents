@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Valorant</string>
+
+    <string name="agent_name">Agent Name</string>
+    <string name="agent_description">Description</string>
+
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="name">Muhammad Rifqy Yudhiestra Rachman</string>
+    <string name="voiceline">Agent Voiceline</string>
+    <string name="voiceline_agent">%1$s</string>
+
+    <string-array name="data_name">
+        <item>Astra</item>
+        <item>Brimstone</item>
+        <item>Chamber</item>
+        <item>Cypher</item>
+        <item>Jett</item>
+        <item>Raze</item>
+        <item>Reyna</item>
+        <item>Sage</item>
+        <item>Skye</item>
+        <item>Sova</item>
+        <item>Viper</item>
+        <item>Yoru</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Agen asal Ghana, Astra, memberdayakan kekuatan semesta untuk mereka ulang medan tempur sesuka hatinya. Dengan kendali penuh atas wujud astralnya dan bakat meramal strategisnya, dia akan selalu unggul dari musuuhnya.</item>
+        <item>Bergabung dari AS, persenjataan orbital Brimstone memastikan pasukannya selalu berada di posisi menguntungkan. Kemampuannya untuk melancarkan bantuan secara presisi dari jarak jauh menjadikannya seorang komandan tempur tak tertandingi.</item>
+        <item>Berpakaian rapi dan bersenjata lengkap, desainer senjata dari Prancis, Chamber, menghalau penyerang dengan presisi yang mematikan. Dia memanfaatkan persenjataan kustomnya untuk mempertahankan barisan, menembak musuh dari jauh, dengan kontingensi yang tersusun untuk tiap rencana.</item>
+        <item>Seorang makelar informasi dari Maroko, Cypher adalah jaringan pengintai satu orang yang mengawasi tiap gerakan musuh. Tak ada rahasia yang aman. Tak ada manuver yang tak terlihat. Cypher selalu mengawasi.</item>
+        <item>Mewakili negara asalnya, Korea Selatan, gaya bertarung Jett yang tangkas dengan banyak pengelakan memungkinkannya mengambil risiko yang tak bisa dilakukan orang lain. Dia mengitari tiap pertempuran, menebas musuh sebelum mereka menyadari apa yang terjadi.</item>
+        <item>Raze membawa kemeriahan dari Brasil bersama kepribadian besar serta senapan besarnya. Dengan gaya bermain trauma benda tumpul, dia unggul dalam menyapu musuh bertahan dan mengosongkan ruang sempit dengan ledakan besar.</item>
+        <item>Tertempa di jantung Meksiko, Reyna mendominasi kombat tunggal dan menjadi makin kuat tiap berhasil membunuh. Kepiawaiannya hanya terhambat oleh keahlian mentahnya, membuatnya sangat bergantung pada performa.</item>
+        <item>Benteng pertahanan dari Tiongkok, Sage memberikan rasa aman bagi dirinya dan timnya ke mana pun dia pergi. Bisa membangkitkan teman yang gugur dan menahan gempuran sengit, dia menjadi sumber ketenangan dalam medan perang bagai neraka.</item>
+        <item>Berasal dari Australia, Skye dan teman-temannya menjelajahi wilayah-wilayah berbahaya. Dengan kreasi yang menghambat gerak musuh, dan kekuatannya untuk menyembuhkan orang lain, tempat paling aman dan kuat bagi para anggota timnya adalah di sisinya.</item>
+        <item>Terlahir dari musim dingin abadi tundra Rusia, Sova melacak, menemukan, dan menghabisi musuh dengan efisiensi dan presisi dahsyat. Busur khusus dan kemampuan pengintaian luar biasanya memastikan bahwa kamu bisa lari, tetapi tak bisa sembunyi.</item>
+        <item>Seorang ahli kimia dari Amerika, Viper mengerahkan sejumlah perangkat kimia beracun untuk mengendalikan medan perang dan menghalangi pandangan musuh. Jika racun tak membunuh buruannya, permainan pikirannya pasti menghabisi mereka.</item>
+        <item>Agen asal Jepang Yoru melubangi realitas untuk menyusup ke wilayah musuh tanpa terlihat. Dengan bermodal tipuan dan agresi yang seimbang, dia menghabisi tiap target sebelum mereka sadar ke mana harus melihat.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt5599d0d810824279/6036ca30ce4a0d12c3ec1dfa/V_AGENTS_587x900_Astra.png</item>
+        <item>https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt26fcf1b5752514ee/5eb7cdbfc1dc88298d5d3799/V_AGENTS_587x900_Brimstone.png</item>
+        <item>https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6f1392b30784e029/618d9da0d380f814d61f001c/WebUpdate_Chamber_KeyArt.png</item>
+        <item>https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt158572ec37653cf3/5eb7cdc19df5cf37047009d1/V_AGENTS_587x900_Cypher.png</item>
+        <item>https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltceaa6cf20d328bd5/5eb7cdc1b1f2e27c950d2aaa/V_AGENTS_587x900_Jett.png</item>
+        <item>https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6fef56a8182d0a81/5ebf2c2798f79d6925dbd6b4/V_AGENTS_587x900_ALL_Raze_2.png</item>
+        <item>https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt6577b1f58530e6b2/5eb7cdc121a5027d77420208/V_AGENTS_587x900_Reyna.png</item>
+        <item>https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt8a627ec10b57f4f2/5eb7cdc16509f3370a5a93b7/V_AGENTS_587x900_sage.png</item>
+        <item>https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt302fcb2b9628c376/5f7fa6ff8db9ea0f149ece0a/V_AGENTS_587x900_ALL_Skye.png</item>
+        <item>https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf11234f4775729b7/5ebf2c275e73766852c8d5d4/V_AGENTS_587x900_ALL_Sova_2.png</item>
+        <item>https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc825c6589eda7717/5eb7cdc6ee88132a6f6cfc25/V_AGENTS_587x900_Viper.png</item>
+        <item>https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltd4080f8efb365751/5ff5660bb47cdf7fc7d6c3dc/V_AGENTS_587x900_yoru.png</item>
+    </string-array>
+
+    <string-array name="data_voiceline">
+        <item>"World Divided"</item>
+        <item>"Open up the sky!"</item>
+        <item>"They are so dead"</item>
+        <item>"Where is everyone hiding?"</item>
+        <item>"Watch this!"</item>
+        <item>"Here comes the party!"</item>
+        <item>"They will cower!"</item>
+        <item>"Your duty is not over!"</item>
+        <item>"Seek them out!"</item>
+        <item>"I am the hunter!"</item>
+        <item>"Don't get in my way!"</item>
+        <item>"I'll handle this"</item>
+    </string-array>
+</resources>
