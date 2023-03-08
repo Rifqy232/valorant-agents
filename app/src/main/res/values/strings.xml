@@ -8,8 +8,12 @@
     <string name="grid">Grid</string>
     <string name="about">About</string>
     <string name="name">Muhammad Rifqy Yudhiestra Rachman</string>
-    <string name="voiceline">Agent Voiceline</string>
+    <string name="voiceline">Voiceline</string>
     <string name="voiceline_agent">%1$s</string>
+    <string name="role">Role</string>
+    <string name="abilities">Abilities</string>
+    <string name="ultimate">Ultimate</string>
+    <string name="email">yudhiestrarifqy@gmail.com</string>
 
     <string-array name="data_name">
         <item>Astra</item>
@@ -69,5 +73,50 @@
         <item>"I am the hunter!"</item>
         <item>"Don't get in my way!"</item>
         <item>"I'll handle this"</item>
+    </string-array>
+
+    <string-array name="data_role">
+        <item>Controller</item>
+        <item>Controller</item>
+        <item>Sentinel</item>
+        <item>Sentinel</item>
+        <item>Duelist</item>
+        <item>Duelist</item>
+        <item>Duelist</item>
+        <item>Sentinel</item>
+        <item>Initiator</item>
+        <item>Initiator</item>
+        <item>Controller</item>
+        <item>Duelist</item>
+    </string-array>
+
+    <string-array name="data_ability">
+        <item>•Gravity Well\n•Nova Pulse\n•Nebula\n•Dissipate</item>
+        <item>•Incendiary\n•Stim Beacon\n•Sky Smoke</item>
+        <item>•Trademark\n•Headhunter\n•Rendezvous</item>
+        <item>•Trapwire\n•Cyber Cage\n•Spycam</item>
+        <item>•Cloudburst\n•Updraft\n•Tailwind</item>
+        <item>•Blast Pack\n•Paint Shells\n•Boom Bot</item>
+        <item>•Dismiss\n•Devour\n•Leer</item>
+        <item>•Slow Orb\n•Barrier Orb\n•Healing Orb</item>
+        <item>•Trailblazer\n•Guiding Light\n•Regrowth</item>
+        <item>•Shock Bolt\n•Owl Drone\n•Recon Bolt</item>
+        <item>•Snakebite\n•Poison Cloud\n•Toxic Screen</item>
+        <item>•Fakeout\n•Gatecrash\n•Blindside</item>
+    </string-array>
+
+    <string-array name="data_ultimate">
+        <item>Astral Form / Cosmic Divide – Activate to enter Astral Form where you can place Stars with primary fire. Stars can be reactivated later, transforming them into a Nova Pulse, Nebula, or Gravity Well. When Cosmic Divide is charged, use secondary fire in Astral Form to begin aiming it, then primary fire to select two locations. An infinite Cosmic Divide connects the two points you select. Cosmic Divide blocks bullets and heavily dampens audio.</item>
+        <item>Orbital Strike – Use your map to target a location, launching a devastating orbital strike that pulses for high damage over several seconds.</item>
+        <item>Tour de Force – Activate to summon a powerful, custom sniper rifle that will kill an enemy with any direct hit. Killing an enemy creates a lingering field that slows players caught inside of it.</item>
+        <item>Neural Theft – Extract information from the corpse of an enemy, revealing the location of their living allies.</item>
+        <item>Blade Storm – Arm yourself with several deadly throwing knives that deal moderate damage and kill on headshots. Scoring a kill restores all daggers. Left-click throws a single dagger. Right-click throws all remaining daggers in a short-ranged burst.</item>
+        <item>Showstopper – Equip a rocket launcher. Fire shoots a rocket that does massive area damage on contact with anything.</item>
+        <item>Empress – Enter a heightened state of bloodlust, giving you Rapid Fire and making enemies easier to see for the duration. Scoring a kill resets the timer.</item>
+        <item>Resurrection – Target a friendly corpse. After a short delay, revive them with full health.</item>
+        <item>Seekers – Skye equips a Seeker trinket. Fire to send out three Seekers that track down the three closest enemies, nearsighting those caught.</item>
+        <item>Hunter’s Fury – Fire up to three deadly energy blasts that spear across the entire map. Each hit enemy takes heavy damage and is marked.</item>
+        <item>Viper’s Pit – Emit a massive toxic cloud in a large area that lasts as long as Viper stays inside the cloud. Enemies inside the cloud are highlighted to Viper.</item>
+        <item>Dimensional Drift – Equips a mask that can see between dimensions. Fire to drift into Yoru’s dimension, making the player unable to be affected or seen by enemies during the ultimate’s duration.</item>
     </string-array>
 </resources>

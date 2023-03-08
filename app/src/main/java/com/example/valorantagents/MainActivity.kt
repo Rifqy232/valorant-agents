@@ -34,10 +34,13 @@ class MainActivity : AppCompatActivity() {
         val dataDescription = resources.getStringArray(R.array.data_description)
         val dataPhoto = resources.getStringArray(R.array.data_photo)
         val dataVoiceline = resources.getStringArray(R.array.data_voiceline)
+        val dataRole = resources.getStringArray(R.array.data_role)
+        val dataAbility = resources.getStringArray(R.array.data_ability)
+        val dataUltimate = resources.getStringArray(R.array.data_ultimate)
         val listAgent = ArrayList<Agent>()
 
         for (i in dataName.indices) {
-            val agent = Agent(dataName[i], dataDescription[i], dataPhoto[i], dataVoiceline[i])
+            val agent = Agent(dataName[i], dataDescription[i], dataPhoto[i], dataVoiceline[i], dataRole[i], dataAbility[i], dataUltimate[i])
             listAgent.add(agent)
         }
 

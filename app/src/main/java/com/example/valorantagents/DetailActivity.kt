@@ -32,12 +32,16 @@ class DetailActivity : AppCompatActivity() {
 
         if (dataAgent != null) {
             val voiceline = "\"${dataAgent.voiceline}\""
+
             Glide.with(this)
                 .load(dataAgent.photo)
                 .into(binding.imgAgentPhoto)
             binding.tvAgentName.text = dataAgent.name
             binding.tvAgentDescription.text = dataAgent.description
             binding.tvVoicelineItem.text = voiceline
+            binding.tvRoleItem.text = dataAgent.role
+            binding.tvAbilities.text = dataAgent.ability
+            binding.tvUltimate.text = dataAgent.ultimate
         }
     }
 

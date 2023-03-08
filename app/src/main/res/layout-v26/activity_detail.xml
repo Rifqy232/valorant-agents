@@ -62,6 +62,7 @@
                     android:layout_height="wrap_content"
                     tools:text="@string/agent_description"
                     android:layout_weight="1"
+                    android:justificationMode="inter_word"
                     android:textColor="@color/white"
                     android:textSize="16sp"/>
             </TableRow>
@@ -150,6 +151,7 @@
                     android:layout_height="wrap_content"
                     tools:text="@string/ultimate"
                     android:layout_weight="1"
+                    android:justificationMode="inter_word"
                     android:textColor="@color/white"
                     android:textSize="16sp"/>
             </TableRow>
